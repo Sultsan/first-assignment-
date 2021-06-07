@@ -67,18 +67,18 @@ The program :
       
       
       
-      ![1](https://user-images.githubusercontent.com/85512440/121068586-f1b36180-c778-11eb-9a03-9d2436e22bb4.png)
+   ![1](https://user-images.githubusercontent.com/85512440/121068586-f1b36180-c778-11eb-9a03-9d2436e22bb4.png)
       
       
       
       
-      ![2](https://user-images.githubusercontent.com/85512440/121068615-f7a94280-c778-11eb-806d-b6ba49431e65.png)
+   ![2](https://user-images.githubusercontent.com/85512440/121068615-f7a94280-c778-11eb-806d-b6ba49431e65.png)
       
       
       
       
       
       
-      ![3](https://user-images.githubusercontent.com/85512440/121068627-fd068d00-c778-11eb-966d-c37f649d6ba7.png)
+   ![3](https://user-images.githubusercontent.com/85512440/121068627-fd068d00-c778-11eb-966d-c37f649d6ba7.png)
 
 
